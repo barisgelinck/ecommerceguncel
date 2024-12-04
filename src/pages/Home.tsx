@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { fetchProducts } from '../services/ProductService';
+import { Product } from '../types/Product';
 //srcye çekince düzeldi .. atınca
 
 function Home() {
@@ -8,7 +9,7 @@ function Home() {
   useEffect(() => {
     const loadProducts = async () => {
       const data = await fetchProducts();
-      setProducts(data); //kontrol edilcek
+      setProducts(data); //types altinda product.ts ile any değerini product olarak değiştirince hata gitti.
     };
     loadProducts();
   }, []);
