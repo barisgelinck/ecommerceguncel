@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using NorthwindAPI.Models;
+using System.Collections.Generic; 
+using System.Threading.Tasks;
 
 namespace NorthwindAPI.Data
 {

@@ -4,7 +4,7 @@ import { Product } from '../types/Product';
 //srcye çekince düzeldi .. atınca
 
 function Home() {
-  const [products, setProducts] = useState<any[]>([]);
+  const [products, setProducts] = useState<Product[]>([]);
 
   useEffect(() => {
     const loadProducts = async () => {
@@ -16,14 +16,14 @@ function Home() {
 
   return (
     <div>
-      <h1>Products</h1>
+      
       <ul>
         {products.map(product => (
           <li key={product.ProductID}>{product.ProductName}</li>
         ))}
       </ul>
     </div>
-  );
+  );  
 }
 
 export default Home;

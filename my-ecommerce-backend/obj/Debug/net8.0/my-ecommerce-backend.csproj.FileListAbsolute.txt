@@ -1,0 +1,8 @@
+C:\Users\KTN84406.KOTON2000\my-ecommerce\my-ecommerce-backend\obj\Debug\net8.0\my-ecommerce-backend.csproj.AssemblyReference.cache
+C:\Users\KTN84406.KOTON2000\my-ecommerce\my-ecommerce-backend\obj\Debug\net8.0\my-ecommerce-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KTN84406.KOTON2000\my-ecommerce\my-ecommerce-backend\obj\Debug\net8.0\my-ecommerce-backend.AssemblyInfoInputs.cache
+C:\Users\KTN84406.KOTON2000\my-ecommerce\my-ecommerce-backend\obj\Debug\net8.0\my-ecommerce-backend.AssemblyInfo.cs
+C:\Users\KTN84406.KOTON2000\my-ecommerce\my-ecommerce-backend\obj\Debug\net8.0\my-ecommerce-backend.csproj.CoreCompileInputs.cache
+C:\Users\KTN84406.KOTON2000\my-ecommerce\my-ecommerce-backend\obj\Debug\net8.0\my-ecommerce-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KTN84406.KOTON2000\my-ecommerce\my-ecommerce-backend\obj\Debug\net8.0\my-ecommerce-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KTN84406.KOTON2000\my-ecommerce\my-ecommerce-backend\obj\Debug\net8.0\my-ecommerce-backend.sourcelink.json
